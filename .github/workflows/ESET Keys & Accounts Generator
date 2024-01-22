@@ -2,6 +2,7 @@ name: ESET Keys & Accounts Generator
 
 on:
   workflow_dispatch:
+
     inputs:
       account:
         description: 'Number of Accounts to be generated (default = 0)'
