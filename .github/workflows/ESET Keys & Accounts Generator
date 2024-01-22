@@ -1,4 +1,4 @@
-name: ESET Keys & Accounts Generator (MAIN)
+name: ESET Keys & Accounts Generator
 
 on:
   workflow_dispatch:
